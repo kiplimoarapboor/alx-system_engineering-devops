@@ -1,2 +1,2 @@
 #1/bin/bash
-ls -al
+echo "$(ls -al)"
