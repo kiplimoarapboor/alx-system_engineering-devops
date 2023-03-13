@@ -1,4 +1,4 @@
 #!/bin/bash
-echo -e "Message\n"
+echo -n "Message: "
 read message
 git add . && git commit -m "$message" && git push
