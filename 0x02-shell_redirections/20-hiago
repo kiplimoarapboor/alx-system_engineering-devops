@@ -1,2 +1,2 @@
 #!/bin/bash
-tr-c [:upper:]
+tr -d C | tr -d c
