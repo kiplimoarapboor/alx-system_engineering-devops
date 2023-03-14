@@ -1,5 +1,5 @@
 #!/bin/bash
-git add 
+git add . 
 git update-index --chmod=+x *
 echo -n "Message: "
 read message
