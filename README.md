@@ -1,7 +1,7 @@
 ![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
 ## About 
-This repository is one among others at [ALX](alxafrica.com)
+This repository is one among others at [ALX](https://www.alxafrica.com/)
 
 I'm still learning, so don't mind the README, I'll sure update it.
 
