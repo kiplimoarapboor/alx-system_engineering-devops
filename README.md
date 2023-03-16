@@ -3,12 +3,6 @@
 ## About 
 This repository is one among others at [ALX](https://www.alxafrica.com/)
 
-I'm still learning, so don't mind the README, I'll sure update it.
+It contains assignments done and lessons learnt for a System Engineer.
 
-Have a nice time with some of the code though.
-
-Signed,
-
-__kiplimoboor__
-
-*a Gooner.*
+~ __kiplimoboor__
